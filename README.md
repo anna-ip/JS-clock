@@ -2,4 +2,4 @@
 
 A Clock built with JS, html and css.
 
-Built with a boilerplate from Wex Bos Java Script challange 30
+Built with a boilerplate from Wex Bos JavaScript30.com
